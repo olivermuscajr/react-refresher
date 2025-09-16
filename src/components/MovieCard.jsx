@@ -11,6 +11,7 @@ function MovieCard({ movie }) {
         else addToFavorites(movie)
 
     }
+    /* Hotdo h*/
 
     return (
         <div className="movie-card">
